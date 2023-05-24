@@ -1,0 +1,41 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap');
+
+
+*{/*height: 100%;*/ font-family: Arial, Helvetica, sans-serif;}
+
+body{
+    background-image: linear-gradient(90deg, #daf22785, #D6D58E85);
+}
+
+main{
+    background-color: white;
+    box-shadow: 5px 5px 15px #D6D58E;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 16px;
+}
+
+h1#principal{
+    color: #042940;
+    text-align: center;
+    text-shadow: 1.3px 1.3px 3px #031e3085;
+    background-color: #038679b0;
+    border-radius: 5px;
+}
+
+h1{
+    color: #042940;
+}
+
+h2{color: #005C53;}
+
+.basico{color: #005C53;}
+.intermediario{color: #5b5c00;}
+.avancado{color: #5c0000;}
+
+p{
+    text-align: justify;
+    text-indent: 30px;
+}
