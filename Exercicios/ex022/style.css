@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagens/wallpaper004.jpg);
+}
+.quadrado{
+    border: 2px solid black;
+    width: 18em;
+    height: 18em;
+    margin: .5em;
+    border-radius: .5em;
+}
+#q1{
+    background-color: aqua;
+}
+#q2{
+    background: linear-gradient(45deg, blueviolet, violet);
+}
+#q3{
+    background-image: url(imagens/pattern001.png);
+}
