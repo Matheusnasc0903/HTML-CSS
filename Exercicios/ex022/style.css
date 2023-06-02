@@ -16,7 +16,7 @@ body{
     border-radius: .5em;
 }
 #q1{
-    background-color: aqua;
+    background-color: rgb(0, 218, 218);
 }
 #q2{
     background: linear-gradient(45deg, blueviolet, violet);
