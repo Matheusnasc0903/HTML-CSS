@@ -12,7 +12,8 @@ body{
 }
 main{
     background-color: white;
-    width: 35%;
+    max-width: 40em;
+    text-align: center;
     padding: 1em;
     border: 1px solid darkblue;
     border-radius: 1em;
