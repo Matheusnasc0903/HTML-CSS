@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(imagens/wallpaper002.jpg);
+    background-size: cover;
+}
+main{
+    background-color: white;
+    width: 35%;
+    padding: 1em;
+    border: 1px solid darkblue;
+    border-radius: 1em;
+}
