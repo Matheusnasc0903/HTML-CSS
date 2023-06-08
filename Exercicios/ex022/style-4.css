@@ -24,7 +24,7 @@ body{
     top: 50%;
     /*transform: translatex(-50%) translatey(-50%);*/
     transform: translate(-50%, -50%);
-    background-color: yellowgreen;
+    background-color: yellow;
     background-image: url(imagens/target001.png);
     background-size: 100% 100%;
 }
